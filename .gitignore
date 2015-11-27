@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# VS stuff.
+Debug
+Release
+WindowsWakeLock/Debug
+WindowsWakeLock/Release
+*.sdf
+.vs
